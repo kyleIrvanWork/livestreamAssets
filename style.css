@@ -6,8 +6,10 @@
   	width:100vw;
   	padding-bottom:.5em;
 }
-video{
+.holder{
 	border: 5px solid #000099 !important;
-	object-fit: cover !important;
 	border-radius: 25px !important;
+}
+video{
+	object-fit: cover !important;
 }
