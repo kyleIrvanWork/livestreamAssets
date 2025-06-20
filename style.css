@@ -61,5 +61,5 @@ body{
 	position: absolute;
 	top: 0;
 	left: 0;
-	border: 0px solid black;
+	border: 0px solid black !important;
 }
