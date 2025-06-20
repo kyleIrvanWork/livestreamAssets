@@ -22,7 +22,7 @@ video{
 	border-radius: var(--borderRadius) !important;
 	box-shadow: 0px 0px 0 1px var(--frameColor) !important;
 }
-#gridlayout {
+#gridlayout, #mainmenu {
     background-color: white;
     height: 100vh;
     border-radius: var(--borderRadius);
