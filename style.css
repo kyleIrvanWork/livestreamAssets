@@ -8,7 +8,7 @@
   	text-align:center;
   	background-color:var(--frameColor);
   	width:100vw;
-  	padding-bottom:.5em;
+  	padding-bottom:.15em;
 	font-size: clamp(36px, 7vw, 50px) !important;
 }
 .holder{
