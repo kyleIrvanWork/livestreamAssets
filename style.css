@@ -9,6 +9,7 @@
   	background-color:var(--frameColor);
   	width:100vw;
   	padding-bottom:.5em;
+	font-size: clamp(36px, 7vw, 50px) !important;
 }
 .holder{
 	border: 5px solid var(--frameColor) !important;
