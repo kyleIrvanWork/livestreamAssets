@@ -1,6 +1,7 @@
 :root {
   	--frameColor: #010a51;
   	--borderRadius: 25px;
+	--background-image: url(Blank.png)
 }
 .video-label{
   	bottom:0;
@@ -28,4 +29,31 @@ video{
     border-radius: var(--borderRadius);
     border: 6px solid var(--frameColor);
     overflow: hidden;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 1920px;
+    height: 1080px;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: var(--background-image);
+}
+.text-on-screen{
+    text-align: center;
+    font-family: 'Ubuntu';
+    font-size: 68px;
+    color: #FFF;
+}
+#livestream-title{
+    font-weight: bold;
+    padding-top: 175px;
+    text-transform: uppercase;
+}
+#starts-in{
+    padding-top: 100px;
+}
+#minutes{
+    padding-top: 375px;
 }
