@@ -4,7 +4,7 @@
 	--background-image: url(Blank.png)
 }
 .video-label{
-  	bottom: -2em%;
+  	bottom: -2em;
 	border: 5px solid var(--frameColor);
 	border-radius: 25px;
 	left: calc(70% + 5px);
@@ -18,7 +18,7 @@
 	border: 5px solid var(--frameColor) !important;
 	border-radius: var(--borderRadius) !important;
 	background-color: var(--frameColor) !important;
-	height: calc(100% - 5em) !important;
+	height: calc(100% - 3.2em) !important;
 	overflow: visible !important;
 }
 video{
