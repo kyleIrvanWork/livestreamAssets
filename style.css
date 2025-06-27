@@ -30,8 +30,8 @@ video{
 #gridlayout, #mainmenu {
     background-color: white;
     height: 100vh;
-    border-radius: var(--borderRadius);
-    border: 6px solid var(--frameColor);
+    *border-radius: var(--borderRadius);
+    *border: 6px solid var(--frameColor);
     overflow: hidden;
 }
 body{
