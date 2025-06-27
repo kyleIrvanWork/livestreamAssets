@@ -18,8 +18,10 @@
 	border: 5px solid var(--frameColor) !important;
 	border-radius: var(--borderRadius) !important;
 	background-color: var(--frameColor) !important;
-	height: calc(100% - 3.5em) !important;
 	overflow: visible !important;
+}
+.holder:has(.video-label){
+	height: calc(100% - 3.5em) !important;
 }
 video{
 	object-fit: cover !important;
