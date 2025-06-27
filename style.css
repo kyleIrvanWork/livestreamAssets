@@ -28,7 +28,7 @@ video{
 	box-shadow: 0px 0px 0 1px var(--frameColor) !important;
 }
 #gridlayout, #mainmenu {
-    background-color: white;
+    *background-color: white;
     height: 100vh;
     *border-radius: var(--borderRadius);
     *border: 6px solid var(--frameColor);
