@@ -6,8 +6,8 @@
 .video-label{
   	bottom: -1.2em;
 	border: 5px solid var(--frameColor);
-	border-radius: 25px;
-	left: calc(100% - clamp(200px, 50%, 400px));
+	border-radius: clamp(12px, 6vh, 25px) !important;
+	left: calc(100% - clamp(200px, 50%, 400px) + 5px);
   	text-align:center;
   	background-color:var(--frameColor);
   	width:clamp(200px, 50%, 400px);
