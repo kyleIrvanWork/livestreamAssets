@@ -1,1 +1,1 @@
-var titleValue="Building a smarter data fabric for ai";
+var titleValue="Streamline Document Management With Records";
