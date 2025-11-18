@@ -1,1 +1,1 @@
-var titleValue="Streamline Document Management With Records";
+var titleValue="Appian 25.4 Release Highlights";
