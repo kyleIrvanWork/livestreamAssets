@@ -1,5 +1,6 @@
 :root {
-  	--frameColor: #2322F0;
+	--darkBlue: #020A51;
+  	--frameColor: --darkBlue;
   	--borderRadius: 25px;
 	--background-image: url(Blank.png)
 }
