@@ -2,10 +2,10 @@
 	Dark Blue: #020A51
 	Vibrant Blue: #2322F0 
 	Cheddar: #FCB858
+	Turbo Purple: #9D4DE3
 */
 :root {
-	--darkBlue: #020A51;
-  	--frameColor: #020A51;
+  	--frameColor: #9D4DE3;
   	--borderRadius: 25px;
 	--background-image: url(Blank.png)
 }
