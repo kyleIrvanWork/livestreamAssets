@@ -1,1 +1,1 @@
-var titleValue="Appian 25.4 Release Highlights";
+var titleValue="Align to a PLan with Appian Composer";
