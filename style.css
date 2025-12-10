@@ -1,6 +1,11 @@
+/* Colors
+	Dark Blue: #020A51
+	Vibrant Blue: #2322F0 
+	Cheddar: #FCB858
+*/
 :root {
 	--darkBlue: #020A51;
-  	--frameColor: --darkBlue;
+  	--frameColor: #020A51;
   	--borderRadius: 25px;
 	--background-image: url(Blank.png)
 }
