@@ -1,1 +1,1 @@
-var titleValue="Align to a PLan with Appian Composer";
+var titleValue="UX Design Lab: Community & Collaboration";
