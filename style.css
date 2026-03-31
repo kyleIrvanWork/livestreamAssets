@@ -57,12 +57,12 @@ body{
 }
 
 @font-face {
-  font-family: Ubuntu;
-  src: url('https://fonts.googleapis.com/css2?family=Ubuntu');
+  font-family: Funnel+Sans;
+  src: url('https://fonts.googleapis.com/css2?family=Funnel+Sans');
 }
 .text-on-screen{
     text-align: center;
-    font-family: Ubuntu, sans-serif;
+    font-family: Funnel+Sans, sans-serif;
     font-size: 68px;
     color: #FFF;
 }
